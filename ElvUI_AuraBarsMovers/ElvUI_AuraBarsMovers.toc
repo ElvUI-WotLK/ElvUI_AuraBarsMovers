@@ -1,5 +1,5 @@
 ## Interface: 30300
-## Title: |cffA11313E|r|cffC4C4C4lvUI|r |cffA11313A|r|cffC4C4C4ura|r |cffA11313B|r|cffC4C4C4ars|r |cffA11313M|r|cffC4C4C4overs|r
+## Title: |cff1784d1E|r|cffe5e3e3lvUI|r |cff1784d1A|r|cffe5e3e3ura|r |cff1784d1B|r|cffe5e3e3ars|r |cff1784d1M|r|cffe5e3e3overs|r
 ## Author: Darth Predator
 ## Version: 1.29
 ## RequiredDeps: ElvUI
